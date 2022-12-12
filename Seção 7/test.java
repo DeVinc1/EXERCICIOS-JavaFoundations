@@ -1,3 +1,12 @@
+/* Instancie dois cartões e quaisquer outros objetos que sejam necessários para testar seu programa. 
+        Carregue os créditos em cada cartão.
+        Jogue um grupo de jogos usando dois cartões.
+        Transfira o saldo de créditos e tíquetes do Cartão 1 para o 2.
+        Solicite prêmios usando o Cartão 2.
+        Tente jogar um jogo e solicitar um prêmio usando o Cartão 1.
+        Execute quaisquer outras ações que sejam necessárias para testar seu programa.
+*/
+
 public class test {
     public static void main(String[] args) {
         cartao CartaoDaVinci = new cartao();
